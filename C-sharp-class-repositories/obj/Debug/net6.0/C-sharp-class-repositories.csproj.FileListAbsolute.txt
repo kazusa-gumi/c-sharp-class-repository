@@ -1,0 +1,15 @@
+/Users/naoikazusa/Projects/C-sharp-class-repositories/C-sharp-class-repositories/bin/Debug/net6.0/C-sharp-class-repositories
+/Users/naoikazusa/Projects/C-sharp-class-repositories/C-sharp-class-repositories/bin/Debug/net6.0/C-sharp-class-repositories.deps.json
+/Users/naoikazusa/Projects/C-sharp-class-repositories/C-sharp-class-repositories/bin/Debug/net6.0/C-sharp-class-repositories.runtimeconfig.json
+/Users/naoikazusa/Projects/C-sharp-class-repositories/C-sharp-class-repositories/bin/Debug/net6.0/C-sharp-class-repositories.dll
+/Users/naoikazusa/Projects/C-sharp-class-repositories/C-sharp-class-repositories/bin/Debug/net6.0/C-sharp-class-repositories.pdb
+/Users/naoikazusa/Projects/C-sharp-class-repositories/C-sharp-class-repositories/obj/Debug/net6.0/C-sharp-class-repositories.csproj.AssemblyReference.cache
+/Users/naoikazusa/Projects/C-sharp-class-repositories/C-sharp-class-repositories/obj/Debug/net6.0/C-sharp-class-repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naoikazusa/Projects/C-sharp-class-repositories/C-sharp-class-repositories/obj/Debug/net6.0/C-sharp-class-repositories.AssemblyInfoInputs.cache
+/Users/naoikazusa/Projects/C-sharp-class-repositories/C-sharp-class-repositories/obj/Debug/net6.0/C-sharp-class-repositories.AssemblyInfo.cs
+/Users/naoikazusa/Projects/C-sharp-class-repositories/C-sharp-class-repositories/obj/Debug/net6.0/C-sharp-class-repositories.csproj.CoreCompileInputs.cache
+/Users/naoikazusa/Projects/C-sharp-class-repositories/C-sharp-class-repositories/obj/Debug/net6.0/C-sharp-class-repositories.dll
+/Users/naoikazusa/Projects/C-sharp-class-repositories/C-sharp-class-repositories/obj/Debug/net6.0/refint/C-sharp-class-repositories.dll
+/Users/naoikazusa/Projects/C-sharp-class-repositories/C-sharp-class-repositories/obj/Debug/net6.0/C-sharp-class-repositories.pdb
+/Users/naoikazusa/Projects/C-sharp-class-repositories/C-sharp-class-repositories/obj/Debug/net6.0/C-sharp-class-repositories.genruntimeconfig.cache
+/Users/naoikazusa/Projects/C-sharp-class-repositories/C-sharp-class-repositories/obj/Debug/net6.0/ref/C-sharp-class-repositories.dll
